@@ -1,0 +1,2 @@
+# capggemini
+seminario full stack
